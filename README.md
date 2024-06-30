@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andZ8
 - 👀 I’m interested in Computer Science (that's why I'm here)
-- 🌱 I’m currently learning you guessed it, coding
+- 🌱 I’m currently learning you guessed it, AI
 - 📖 My programming language of choice is Python
 
 <!---
