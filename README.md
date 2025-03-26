@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @andZ8
-- 👀 I’m interested in Computer Science (that's why I'm here)
+- 👀 I’m interested in Computers (Engineering and Science)
 - 🌱 I’m currently learning you guessed it, AI
 - 📖 My programming language of choice is Python
 
