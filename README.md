@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andZ8
-- 👀 I’m interested in CS
-- 🌱 I’m currently learning you guessed it, Machine Learning
+- 👀 I’m interested in CS and ML
+- 🌱 Student at University of Waterloo
 - 📖 My programming language of choice is Python
 
 <!---
