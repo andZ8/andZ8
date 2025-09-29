@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @andZ8
+- 👋 Hi, I’m Andrew Zhang
 - 👀 I’m interested in SWE and ML
 - 📖 Student at University of Waterloo
 
