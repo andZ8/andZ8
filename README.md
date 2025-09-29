@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @andZ8
-- 👀 I’m interested in CS and ML
-- 🌱 Student at University of Waterloo
-- 📖 My programming language of choice is Python
+- 👀 I’m interested in SWE and ML
+- 📖 Student at University of Waterloo
+
 
 <!---
 andZ8/andZ8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
